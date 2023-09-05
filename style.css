@@ -1,0 +1,40 @@
+body {
+    background-color: #1A1A1D;
+}
+
+h1 {
+    color: #F77F00;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 8rem;
+    text-align: center;
+    text-shadow: 2px 0 #823329;
+}
+
+p {
+    color: #F77F00;
+    font-size: 1em;
+    font-family: 'Press Start 2P', cursive;
+}
+
+footer {
+    color: #EEEEEE;
+    text-align: center;
+    margin-top: 15%;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1em;
+}
+
+.container {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+    width: 70%;
+}
