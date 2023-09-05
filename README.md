@@ -1,6 +1,7 @@
-# Dice_Roll_Rush
+# <a href='https://tejalbangali.github.io/Dice_Roll_Rush/'> Dice Roll Rush </a>
 
 <h3> Fun Game to play with friend when it's difficult to make a decision. Winner's Decision will be Counted. 🎉 </h3>
+<p> URL to the fun game -> https://tejalbangali.github.io/Dice_Roll_Rush/ </p>
 <p> Techstack used - 
 <ul>
   <li>HTML</li>
